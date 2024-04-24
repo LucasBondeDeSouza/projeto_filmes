@@ -1,0 +1,7 @@
+1º - npx create-vite .
+    React
+    JavaScript
+
+2º - npm i
+
+3º - npm run dev
